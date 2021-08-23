@@ -19,9 +19,6 @@ author_profile: true
    <a href="mailto:hoyin@snu.ac.kr">hoyin@snu.ac.kr</a> 
    <a href="tel: +82-1094987147">+82-1094987147</a><br>
 </address>
-<div id="formkeep-embed" data-formkeep-url="https://formkeep.com/p/55a2c53fb42f69b3840644ee8cb9ae29?embedded=1"></div>
 
-<script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
-<script type="text/javascript" src="https://formkeep-production-herokuapp-com.global.ssl.fastly.net/formkeep-embed.js"></script>
 
 <!-- Get notified when the form is submitted, add your own code below: -->
