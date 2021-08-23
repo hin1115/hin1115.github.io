@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :  bing_site_verification   
+google_site_verification :     
 alexa_site_verification  :
 yandex_site_verification :
 
@@ -108,7 +108,7 @@ author:
   stackoverflow    : #"https://math.stackexchange.com/users/249258/sachchidanand-prasad"
   steam            :
   tumblr           :
-  twitter          : #"speinstene26"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
