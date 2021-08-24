@@ -55,9 +55,9 @@ In this procedure, there are three characteristics.
 
    - First-order : **(Supervised)** capture local structure features by judging whether nodes are linked by a direct edge.
 
-  \\(
+  $$
  Loss_{1st} = \sum_{i,j=1}^n s_{i,j}   || y_i^{(k)} - y_j^{(k)} || ^2_2 = 2 \text{tr}(Y^T LY)
-  \\)
+  $$
   
   where $L$ is the Laplace vector matrix, $s_{i,j}$ is the element of the adjacency matrix, $Y$ is the encoded vector matrix of the hidden layer.
      
