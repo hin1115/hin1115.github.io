@@ -4,6 +4,16 @@ layout: default
 
 {% include base_path %}
 
+    <script type="application/ld+json">
+    {
+	"@context": "http://schema.org/",
+	"@type": "CreativeWork",
+	"author": "R. Stuart Geiger",
+        "name": "{{ page.title }}",
+	"datePublished": "{{ page.date }}",
+	"description": "{{ page.excerpt }}"
+    }
+    </script>
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% endif %}
