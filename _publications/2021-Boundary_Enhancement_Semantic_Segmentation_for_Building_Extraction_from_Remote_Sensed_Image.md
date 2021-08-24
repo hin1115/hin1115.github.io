@@ -10,6 +10,9 @@ link: "https://arxiv.org/abs/2011.02972"
 #code: 'ISA dataverse here'
 github: https://github.com/hin1115/Boundary_Enhanced_Building_Extraction
 citation: 'Hoin Jung, Han-Soo Choi, Myungjoo Kang, IEEE Transactions on Geoscience and Remote sensing'
+tags:
+  - references
+  - bash
 ---
 
 ### Abstract
