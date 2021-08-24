@@ -1,11 +1,11 @@
 ---
 title : 'What is represenation learning in deep learning?'
 date: 2021-07-24
-excerpt : "<br>"
+excerpt : ""
 permalink: /posts/2021/07/representation_learning/
 tags:
-  - references
-  - bash
+  - representation learning
+  - machine learning
 use_math : True
 ---
 
