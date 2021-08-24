@@ -1,7 +1,7 @@
 ---
 title : 'What is represenation learning in deep learning?'
 date: 2021-07-24
-excerpt : ""
+excerpt : "<br>"
 permalink: /posts/2021/07/representation_learning/
 tags:
   - references
