@@ -1,11 +1,11 @@
 ---
 title: "Boundary Enhancement Semantic Segmentation for Building Extraction from Remote Sensed Image"
 permalink: /publication/BE_module/
-venue: 'Accepted'
-paperurl: '/files/pdf/research/Boundary_Enhancement__Accepted_.pdf'
-link: "https://arxiv.org/abs/2011.02972"
-github: https://github.com/hin1115/Boundary_Enhanced_Building_Extraction
-citation: 'Hoin Jung, Han-Soo Choi, Myungjoo Kang, IEEE Transactions on Geoscience and Remote sensing'
+# venue: 'Accepted'
+# paperurl: '/files/pdf/research/Boundary_Enhancement__Accepted_.pdf'
+# link: "https://arxiv.org/abs/2011.02972"
+# github: https://github.com/hin1115/Boundary_Enhanced_Building_Extraction
+# citation: 'Hoin Jung, Han-Soo Choi, Myungjoo Kang, IEEE Transactions on Geoscience and Remote sensing'
 tags:
   - references
   - bash

@@ -141,19 +141,19 @@ Property-specific messages $\text{MSG}_X^{A→S} = \gamma_X (S^{(C)},A_X ) \cdot
   **Anchor patches** are subgraphs, randomly sampled from $G$ in a channel-specific manner.
 
 - Message from anchor patch $A_X$ to subgraph components $S^{(C)}$,
-  \\(
+  $$
   \text{MSG}_X^{A \xrightarrow{}S} = \gamma_X (S^{(C)},A_X ) \cdot \mathbf{a}_X 
-  \\)
+  $$
 
 - These messages are transformed into order-invariant hidden representation $h_{X,c}$    
  
-  \\(
+  $$
   g_{X,c}= \text{AGG}_M ( \{ \text{MSG}_X^{A_X  \xrightarrow{}S^{(C)}} \forall A_X \in \mathcal{A_X} \} )
-  \\)     
+  $$     
   
-  \\(
+  $$
   h_{X,c} \xleftarrow{} \sigma(W_X \cdot [g_{X,c}; h_{X,c}])
-  \\)
+  $$
   
 - $h_{X,c}$ is a channel-specific hidden representation for components $S^{(C)}$ and channel $\text{X}$, and is passed to the next layer of the SUBGNN.
 

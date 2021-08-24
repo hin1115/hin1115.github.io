@@ -63,10 +63,10 @@ In this procedure, there are three characteristics.
      
    - Second-order : **(Unsupervised)** preserves global structure features by observing the differences between the neighborhood structure of nodes.    
    
-  \\(
+  $$
   Loss_{2nd} = \sum_{i=1}^n    || (\hat{x_i} - x_i)\odot b_i  || ^2_2 = || (\hat{X} - X) \odot B|| ^2_F
-  \\)
-
+  $$
+  
   where $\hat{x_i} - x_{i}$ is the reconstruction error, $\odot$ denotes the Hadamard product, and $b_i$ is a penalty coefficient.
      
  
@@ -82,9 +82,9 @@ By utilizing similarity index and edge list, the final similarity matrix can be 
    = the likelihood one link connecting pairwise node
 
 Finally, the similarity matrix can be calculated as 
-\\(
+$$
 S_{MNLP} = S_{MAARA} * S_{PA} + \alpha A^{3}
-\\)
+$$
 
 ## Node-classification Algorithm
 
@@ -105,18 +105,18 @@ Actually, there are more things to consider bringing about deviations.
 ### High-order proximity
 
 High-order loss function seeks the potential link by utilizing similarity matrix from link prediction.    
-\\(
+$$
 Loss_{high-order} = \sum_{i=1}^n || ( \hat{x_i}-x_i ) \odot M * \gamma ||_2^2
-\\)    
+$$ 
 
 where $\gamma$ is the adjustment parameter.
 
 ### Node classification
 
 Finally, the multi-task graph autoencoder can classify each node labels using the combined loss function.
-\\(
+$$
 Loss_{mix} = \alpha Loss_{1st} + Loss_{2nd} + Loss_{high-order}
-\\)
+$$
 <p align="center">
   <img src="/assets/img/multitaskautoencoder/multi2.PNG" alt="multi2" style="zoom:75%;" />
 </p>
