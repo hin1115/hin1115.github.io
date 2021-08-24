@@ -61,11 +61,9 @@
       {% if post.github %}
         <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
       {% endif %}
-      </p>
-    {% elsif post.collection == 'posts' and post.date %}
+    </p>
     {% endif %}
 
-{% endif %}
 
     {% if post.excerpt and post.collection == 'research' and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">
