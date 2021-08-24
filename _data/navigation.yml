@@ -10,10 +10,10 @@ main:
   #   url: /teaching/
 
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /posts/
 
-  - title: "Miscellaneous"
-    url: /miscellaneous/
+  #- title: "Miscellaneous"
+  #  url: /miscellaneous/
 
   - title: "CV"
     url: /cv/
