@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-<iframe src="https://hin1115.github.io/files/pdf/CV_SNU_2021.pdf" width="100%" height="800em"></iframe>
+<iframe src="https://hin1115.github.io/files/pdf/hoin_cv.pdf" width="100%" height="800em"></iframe>
