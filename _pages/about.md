@@ -16,7 +16,7 @@ I am studying for a master's degree in the *Department of Computational Science 
 I'm interested in **Machine Learning**, **Computer Vision**, and **Data Science**.    
 Recently, I'm studying ***Graph Neural Network(GNN)*** for my next research work.    
 This blog aims to document my study works and share the materials that I make or have.    
-I'm going to study some textbooks one step at a time. It's going to be a long journey.    
+I'm going to study some textbooks one step at a time though it takes long time.    
 
 - *"Graphs and Matrice." Ravindra B. Bapat.*
 - *"The Elements of Statistical Learning." Trevor Hastie, Robert Tibshirani, Jerome Friedman*
@@ -24,8 +24,8 @@ I'm going to study some textbooks one step at a time. It's going to be a long jo
 
 ## Work Experience & Project
 
-I was a mechanical engineer for three years in *Air Force* as an officer and another three years in *Samsung Electronics*. What I developed were all about Thermodynamics, (Computational) Fluid Dynamics, and Materials.    
-Now, my career as a computer/data scientist just began. As a deep learning researcher, I'm responsible for several projects about computer vision like classification, object detection and tracking, segmentation.    
+I was a mechanical engineer for three years in *Air Force* as an officer and another three years in *Samsung Electronics*. What I developed and researched were all about Thermodynamics, (Computational) Fluid Dynamics, and Materials.    
+Now, as a graduate student and deep learning researcher, I'm responsible for several projects about Computer Vision work such as image classification, object detection and tracking, segmentation.    
 Also, I'm a lecturer teaching international students Fundamental Python programming & Data analysis.         
 
 ## Activity
