@@ -27,10 +27,6 @@ I'm going to study some textbooks one step at a time though it takes long time.
 I was a mechanical engineer for three years in *Air Force* as an officer and another three years in *Samsung Electronics*. What I developed and researched were all about Thermodynamics, (Computational) Fluid Dynamics, and Materials.    
 Now, as a graduate student and deep learning researcher, I'm responsible for several projects about Computer Vision work such as image classification, object detection and tracking, segmentation.    
 Also, I'm a lecturer teaching international students Fundamental Python programming & Data analysis.         
-<!-- 
-## Activity
 
-- I was a drummer of my band when I was an undergraduate student, but I still love music and want to get into some instruments. (Please recommend any)    
-- I like any outdoor activities, like hiking or riding a bike. These days I'd love to play tennis.     
-- I was a vice president of the student council, Korea Aerospace University, 2013.     
- -->
+
+
